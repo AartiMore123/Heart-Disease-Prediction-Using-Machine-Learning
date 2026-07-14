@@ -137,32 +137,27 @@ Add screenshots of the following pages inside the **images** folder:
 ## 📸 Application Screenshots
 
 ### 🏠 Home Page
-
-![Home Page](Home%20Page.png)
+![Home Page](images/Home%20Page.png)
 
 ---
 
 ### 🔐 Login Page
-
-![Login Page](Login%20Page.png)
+![Login Page](images/Login%20Page.png)
 
 ---
 
 ### 🩺 Health Page
-
-![Health Page](Health%20Page.png)
+![Health Page](images/Health%20Page.png)
 
 ---
 
 ### 📊 Prediction Page
-
-![Prediction Page](Prediction%20Page.png)
+![Prediction Page](images/Prediction%20Page.png)
 
 ---
 
 ### 🔒 Admin Dashboard
-
-![Admin Dashboard](Admin%20Dashboard.png)
+![Admin Dashboard](images/Admin%20Dashboard.png)
 
 ## 📌 Note
 
